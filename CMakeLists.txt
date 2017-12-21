@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(image_view_ros2)
+project(image_viewer_ros2)
 
 # Default to C++14
 if(NOT CMAKE_CXX_STANDARD)
